@@ -1,0 +1,40 @@
+name: Auto-Update Pirate Fleet
+
+on:
+  schedule:
+    # Runs automatically every 3 hours
+    - cron: '0 */3 * * *' 
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: make install
+
+      - name: Run Playlist Generator
+        env:
+          SOURCE_PASSPHRASE: ${{ secrets.SOURCE_PASSPHRASE }}
+          PLAYLIST_SOURCES: ${{ secrets.PLAYLIST_SOURCES }}
+        run: make run
+
+      - name: Commit and Push the updated playlist
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add iptv.m3u8
+          git commit -m "chore: auto-update pirate fleet streams" || echo "No changes to commit"
+          git push
+
