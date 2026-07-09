@@ -216,6 +216,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad47832/level_3.m3u8
 http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Sharq Game TV
+https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",T Sports
@@ -500,6 +502,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Indian",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Show Box
