@@ -272,8 +272,6 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 tvg-logo="://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Bangla",Bengla Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",Channel-16
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Bengla
 https://poweredbyjibon.myziboplay.xyz/zibo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Live",Peace TV Bangla
@@ -384,6 +382,8 @@ http://xtv.ooo:8080/danyear12/am809100/263386
 http://103.161.153.165:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg" group-title="Movies",Sony Max 2 HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Indian",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Movies",Zee Action
 http://103.161.153.165:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Indian",Zee Anmol Cinema
