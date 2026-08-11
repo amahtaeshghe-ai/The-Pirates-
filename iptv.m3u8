@@ -106,6 +106,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Bangla",Star Jalsha HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="Bangla",ABP Ananda
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/1e4516fa-023a-4807-8e3d-479b346b4a62/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg" group-title="Bangla",Bangla Jago
@@ -206,6 +208,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad47832/level_3.m3u8
 http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Sharq Game TV
+https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",T Sports
@@ -326,8 +330,6 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
-https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" group-title="Bangla",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Bangla",TV9 Bangla
@@ -498,6 +500,8 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png" group-title="News",BBC World
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-logo="" group-title="News",CGTN News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",France 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Sky News
