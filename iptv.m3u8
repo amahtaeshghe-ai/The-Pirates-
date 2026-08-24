@@ -302,10 +302,6 @@ http://103.229.254.25:7001/play/a076/index.m3u8
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Bangla",Sun Bangla HD
 http://103.161.153.165:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",R Plus Gold
-https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
-#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png" group-title="Bangla",AAKASH AATH
-https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Bangla Movies
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Movies",Jalsha Movies
