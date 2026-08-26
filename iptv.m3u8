@@ -114,6 +114,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg" group-title="Bangla",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",Zee 24 Ghanta
@@ -204,6 +206,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad47832/level_3.m3u8
 http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Sharq Game TV
+https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",T Sports
