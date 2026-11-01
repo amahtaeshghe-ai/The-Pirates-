@@ -312,6 +312,8 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Movies",Khushboo Bangla
 https://cdn3.pishow.tv/live/283/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
